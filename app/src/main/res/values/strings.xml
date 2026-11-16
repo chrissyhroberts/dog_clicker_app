@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dog Clicker</string>
+    <string name="widget_description">Tap to make a dog-training click</string>
+    <string name="widget_description_2">Tap for two dog-training clicks</string>
+    <string name="widget_description_3">Tap for three dog-training clicks</string>
+</resources>
